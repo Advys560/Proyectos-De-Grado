@@ -6,7 +6,6 @@ public class frmLogin extends javax.swing.JPanel {
     public frmLogin() {
         initComponents();
     }
-    @SuppressWarnings("unchecked")
 
     private void initComponents() {
 
